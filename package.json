@@ -1,0 +1,51 @@
+{
+  "name": "class-27-starter-code",
+  "version": "1.0.0",
+  "description": "## React Testing and Deployment",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "enzyme": "latest",
+    "enzyme-adapter-react-16": "1.14.0",
+    "eslint": "^6.8.0",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-jsonschema-form": "1.8.0",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.1.1",
+    "react-test-renderer": "16.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharoran-401-advanced-javascript/lab-27-React.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharoran-401-advanced-javascript/lab-27-React/issues"
+  },
+  "homepage": "https://asharoran-401-advanced-javascript.github.io/lab-27-React/",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
