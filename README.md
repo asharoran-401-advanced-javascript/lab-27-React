@@ -44,3 +44,6 @@
   
 #### Tests
 * `npm test`
+
+#### UML 
+![alt text](assest/lab-27.jpg)
