@@ -35,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/asharoran-401-advanced-javascript/lab-27-React/issues"
   },
-  "homepage": "https://asharoran-401-advanced-javascript.github.io/lab-27-React/",
+  "homepage": "/",
   "browserslist": {
     "production": [
       ">0.2%",
