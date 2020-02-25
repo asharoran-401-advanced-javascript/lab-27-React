@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` <Header /> render correctly 1`] = `
+<header>
+  <h1>
+    Counter for React Application
+  </h1>
+</header>
+`;
