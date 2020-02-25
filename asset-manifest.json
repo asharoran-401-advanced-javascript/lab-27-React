@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lab-27-React/static/css/main.a0d01d6e.chunk.css",
-    "main.js": "/lab-27-React/static/js/main.53c53144.chunk.js",
-    "main.js.map": "/lab-27-React/static/js/main.53c53144.chunk.js.map",
+    "main.js": "/lab-27-React/static/js/main.580969b0.chunk.js",
+    "main.js.map": "/lab-27-React/static/js/main.580969b0.chunk.js.map",
     "runtime-main.js": "/lab-27-React/static/js/runtime-main.a76b321d.js",
     "runtime-main.js.map": "/lab-27-React/static/js/runtime-main.a76b321d.js.map",
     "static/js/2.37de1627.chunk.js": "/lab-27-React/static/js/2.37de1627.chunk.js",
     "static/js/2.37de1627.chunk.js.map": "/lab-27-React/static/js/2.37de1627.chunk.js.map",
     "index.html": "/lab-27-React/index.html",
-    "precache-manifest.8a699bbaf28f7ec10fee1b4ee2fa53f8.js": "/lab-27-React/precache-manifest.8a699bbaf28f7ec10fee1b4ee2fa53f8.js",
+    "precache-manifest.6f83573106da640f74860efc2ceac375.js": "/lab-27-React/precache-manifest.6f83573106da640f74860efc2ceac375.js",
     "service-worker.js": "/lab-27-React/service-worker.js",
     "static/css/main.a0d01d6e.chunk.css.map": "/lab-27-React/static/css/main.a0d01d6e.chunk.css.map",
     "static/js/2.37de1627.chunk.js.LICENSE.txt": "/lab-27-React/static/js/2.37de1627.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a76b321d.js",
     "static/js/2.37de1627.chunk.js",
     "static/css/main.a0d01d6e.chunk.css",
-    "static/js/main.53c53144.chunk.js"
+    "static/js/main.580969b0.chunk.js"
   ]
 }
