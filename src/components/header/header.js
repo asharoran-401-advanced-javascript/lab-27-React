@@ -1,6 +1,7 @@
+'use strict';
 import React from 'react';
 
-class Header extends React.Component {
+class Header extends React.Component { // to pass it as component
   render() {
     return (
       <header>
