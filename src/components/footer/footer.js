@@ -1,8 +1,12 @@
-import React from 'react';
+// eslint-disable-next-line strict
+'use strict';
 
-class Footer extends React.Component {
-  render() {
-    return <footer>&copy; 2018 Code Fellows</footer>;
+import React from 'react';
+import  '../../components/footer/footer.scss';
+
+class Footer extends React.Component{
+  render(){
+    return <footer>&copy; 2020 As-har Al-Oran</footer>;
   }
 }
 

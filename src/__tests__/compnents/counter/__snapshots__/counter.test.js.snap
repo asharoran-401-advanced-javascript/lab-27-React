@@ -8,7 +8,7 @@ exports[`<Counter /> render correctly 1`] = `
     className="down clicker"
     onClick={[Function]}
   >
-     - 
+    -
   </span>
   <span
     className="count "
@@ -19,7 +19,7 @@ exports[`<Counter /> render correctly 1`] = `
     className="up clicker"
     onClick={[Function]}
   >
-     + 
+    +
   </span>
 </section>
 `;

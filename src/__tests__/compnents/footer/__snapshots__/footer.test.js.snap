@@ -2,6 +2,6 @@
 
 exports[` <Footer /> render correctly 1`] = `
 <footer>
-  © 2018 Code Fellows
+  © 2020 As-har Al-Oran
 </footer>
 `;

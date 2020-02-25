@@ -10,6 +10,7 @@
       "fail":true
     },
     "extends": "eslint:recommended",
+    "parser": "babel-eslint",
     "parserOptions": {
       "sourceType": "module",
       "ecmaVersion": 2018
@@ -22,4 +23,5 @@
       "semi": [ "error", "always" ],
       "no-unused-vars": [1, {"vars": "local", "args": "none"}]
     }
+    
   }

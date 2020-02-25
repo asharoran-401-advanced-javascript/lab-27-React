@@ -3,7 +3,7 @@
 exports[` <Header /> render correctly 1`] = `
 <header>
   <h1>
-    Counters R Fun
+    Counter for React Application
   </h1>
 </header>
 `;
